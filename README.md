@@ -1,2 +1,2 @@
 # tisr
-Tournoi Inter Isaac Soccer Robotisé
+Tournoi Inter Isaac de Soccer Robotisé
